@@ -1,0 +1,12 @@
+{
+    "200": "Success!",
+    "201": "Successfully inserted Data!",
+    "203": "Oops data doesn't exist!",
+    "400": "Oops Invalid field!",
+    "401": "Unauthorized user!",
+    "402": "Please provide all required fields!",
+    "404": "Data not found!",
+    "406": "Already exist!",
+    "410": "Oops the provided link is expired!",
+    "500": "Something went wrong"
+}
